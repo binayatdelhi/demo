@@ -264,3 +264,9 @@ textarea {
   }
 }
 
+#preview{
+  width: 100%;
+}
+.reviewer-name{
+  padding-right: 10px;
+}
